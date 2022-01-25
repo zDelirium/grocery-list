@@ -3,7 +3,7 @@
 - [ ] Bread
 - [x] Sour Cream
 - [x] Onions
-- [ ] Milk
+- [ ] noodles
 - [x] Ice cream
 - [x] Cheese
   [ ] Chicken
